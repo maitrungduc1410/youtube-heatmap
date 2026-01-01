@@ -182,7 +182,7 @@
             }
           }
           
-          throw new Error('Heatmap data not found in the provided data');
+          throw new Error('Heatmap data not found. Maybe the Youtube video does not have heatmap data');
         } catch (e) {
           throw new Error('Failed to parse data: ' + e.message);
         }
