@@ -6,6 +6,9 @@ A lightweight web tool to visualize YouTube video engagement heatmaps. Extract a
 
 ![Demo](demo.png)
 
+> [!NOTE]  
+> Disclaimer: This tool is for educational purposes only. It uses YouTube's internal data structures which may change over time.
+
 ## Features
 
 - 🎨 **Dual Rendering Modes**: View heatmaps with smooth Bezier curves or sharp lines
